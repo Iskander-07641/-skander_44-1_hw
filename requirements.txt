@@ -1,0 +1,2 @@
+aiogram==X.Y.Z
+python-dotenv==X.Y.Z
